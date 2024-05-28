@@ -13,3 +13,5 @@ for i in {1..200}; do
     echo "현재 재고 : $quantity"
 done
 
+
+ 

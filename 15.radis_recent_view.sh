@@ -12,3 +12,5 @@ while true; do
 done
 echo "사용자의 최근 본 상품목록 5개 : "
 redis-cli zrevrange recent:products 0 4
+
+ 
